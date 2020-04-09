@@ -64,6 +64,9 @@ const App = () => {
 export default App;
 ```
 
+## Result
+![Image result with above code](https://github.com/nightborn-be/react-use-faceapi/blob/master/result.png)
+
 ## License
 
 MIT © [m-Nightly](https://github.com/m-Nightly)
