@@ -17,7 +17,8 @@
     "start": "rollup -c -w",
     "prepare": "yarn run build",
     "predeploy": "cd example && yarn install && yarn run build",
-    "deploy": "gh-pages -d example/build"
+    "deploy": "gh-pages -d example/build",
+    "publish": "npm publish"
   },
   "dependencies": {
     "face-api.js": "^0.22.2"

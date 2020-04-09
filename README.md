@@ -16,6 +16,12 @@ npm install --save react-use-faceapi
 
 ## Usage
 
+!! Important !!
+You should have the models folder in your build, development folder in order for face-api to retrieve the information needed to run the model.
+
+You can change the path to the models in the configuration, a more in-depth explanation will come soon.
+Please refer to the interface in the index.ts in the meanwhile.
+
 ```tsx
 import React, { useRef, useState } from "react";
 import { useFaceApi, } from 'react-use-faceapi';
