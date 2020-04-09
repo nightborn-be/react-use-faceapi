@@ -1,6 +1,6 @@
 # react-use-faceapi
 
-> This repository has been created to simplify the usage of the face-api package in React.
+> This repository has been created to simplify the usage of the face-api package in React, this was created when creating a POC for a client to win a RFP, but we thought we could share this to make life easier for everyone. The example we supplied is pretty basic, but you're able to create really complex and complete applications with the use of your creativity.
 
 [![NPM](https://img.shields.io/npm/v/react-use-faceapi.svg)](https://www.npmjs.com/package/react-use-faceapi) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
@@ -17,9 +17,11 @@ npm install --save react-use-faceapi
 ## Usage
 
 !! Important !!
+
 You should have the models folder in your build, development folder in order for face-api to retrieve the information needed to run the model.
 
 You can change the path to the models in the configuration, a more in-depth explanation will come soon.
+
 Please refer to the interface in the index.ts in the meanwhile.
 
 ```tsx
