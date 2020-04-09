@@ -1,13 +1,16 @@
 {
   "name": "react-use-faceapi",
-  "version": "1.0.0",
-  "description": "This repository has been created to simplify the usage of the face-api package in React.",
+  "version": "1.0.1",
+  "description": "This repository has been created to simplify the usage of the face-api package in React, this was created when creating a POC for a client to win a RFP, but we thought we could share this to make life easier for everyone. The example we supplied is pretty basic, but you're able to create really complex and complete applications with the use of your creativity.",
   "author": "m-Nightly",
   "license": "MIT",
   "repository": "nightborn-be/react-use-faceapi",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
+  "files": [
+    "dist"
+  ],
   "engines": {
     "node": ">=8",
     "npm": ">=5"
