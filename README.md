@@ -4,6 +4,8 @@
 
 [![NPM](https://img.shields.io/npm/v/react-use-faceapi.svg)](https://www.npmjs.com/package/react-use-faceapi) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+![Banner](https://github.com/nightborn-be/react-use-faceapi/blob/master/react-use-faceapi.png)
+
 ## Demo
 You can try out the hook here by uploading an image:
 https://nightborn-be.github.io/react-use-faceapi/
